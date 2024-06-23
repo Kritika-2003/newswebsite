@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import NewsItem from './NewsItem'
 import Spinner from './Spinner';
 import propTypes from 'prop-types';
-import { Category } from '@mui/icons-material';
+//import { Category } from '@mui/icons-material';
 import InfiniteScroll from "react-infinite-scroll-component";
 
 
